@@ -1,11 +1,12 @@
 language: php
+dist: trusty
+sudo: false
+
 php:
   - 5.6
   - 7.0
   - 7.1
   - hhvm
-
-sudo: false
 
 matrix:
   fast_finish: true
@@ -24,4 +25,4 @@ script:
 
 after_script:
   - wget https://scrutinizer-ci.com/ocular.phar
-  - php ocular.phar code-coverage:upload --format=php-clover coverage.clover ./build/logs/coverage.clover
+  - php ocular.phar code-coverage:upload --format=php-clover ./build/logs/coverage.clover
