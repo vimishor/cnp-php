@@ -5,6 +5,7 @@
 [![Build Status](https://img.shields.io/travis/vimishor/cnp-php/develop.svg?style=flat-square)](https://travis-ci.org/vimishor/cnp-php)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/vimishor/cnp-php.svg?style=flat-square)](https://scrutinizer-ci.com/g/vimishor/cnp-php/?branch=develop)
 [![Code quality](https://img.shields.io/scrutinizer/g/vimishor/cnp-php.svg?style=flat-square)](https://scrutinizer-ci.com/g/vimishor/cnp-php/?branch=develop)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvimishor%2Fcnp-php.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvimishor%2Fcnp-php?ref=badge_shield)
 
 PHP implementation of [Personal Identification Number specification - draft 0.1](https://github.com/vimishor/cnp-spec), 
 in order to validate Personal Identification Number of Romanian citizens and residents.
@@ -62,3 +63,6 @@ For any security related issues, please email send an email at [alex@gentle.ro][
 Licensed under the MIT License - see the LICENSE file for details.
 
 [maintainer-pgp]: https://keybase.io/vimishor/key.asc
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvimishor%2Fcnp-php.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvimishor%2Fcnp-php?ref=badge_large)
